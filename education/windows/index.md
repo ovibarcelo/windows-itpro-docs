@@ -42,17 +42,6 @@ ms.date: 10/13/2017
 <p><b>[Switch to Windows 10 Pro Education from Windows 10 Pro or Windows 10 S](change-to-pro-education.md)</b><br />If you have an education tenant and use Windows 10 Pro or Windows 10 S in your schools, find out how you can opt-in to a free switch to Windows 10 Pro Education.</p>
 
 
-## Windows 8.1
-
-Follow these links to find step-by-step guidance on how to deploy Windows 8.1 in an academic environment.
-
-<p><b><a href="https://technet.microsoft.com/library/dn645509.aspx" target="_blank">Windows 8.1 deployment planning</a></b><br />Explore key considerations and questions that should be answered when planning for Windows 8.1 deployment.</p>
-<p><b><a href="https://technet.microsoft.com/library/dn645528.aspx" target="_blank">Windows 8.1 deployment to PCs</a></b><br />Get an overview of Windows 8.1 deployment to PCs in an educational environment.</p>
-<p><b><a href="https://technet.microsoft.com/library/dn645510.aspx" target="_blank">BYOD</a></b><br />Explore Bring Your Own Device (BYOD) considerations, including device types, infrastructure, and deployment models.</p>
-<p><b><a href="https://technet.microsoft.com/library/dn645488.aspx" target="_blank">Deploying Windows RT 8.1</a></b><br />Get step-by-step instructions on how to configure and deploy Windows RT devices (like Surface and other tablets) in educational environments.</p>
-<p><b><a href="https://technet.microsoft.com/library/dn645483.aspx" target="_blank">Virtual Desktop Infrastructure</a></b><br />Learn how to address challenges related to BYOD scenarios using Virtual Desktop Infrastructure (VDI).</p>
-<p><b><a href="https://technet.microsoft.com/library/dn645532.aspx" target="_blank">Microsoft Store apps</a></b><br />Explore Microsoft Store app deployment strategies and considerations for educational institutions running Windows 8.1.</p>
-<p><b><a href="https://technet.microsoft.com/library/dn645486.aspx" target="_blank">Windows To Go</a></b><br />Learn about the benefits, limitations, and processes involved in deploying Windows To Go.</p>
 
 ## Related topics
 - [Microsoft Education documentation and resources](https://docs.microsoft.com/education)
